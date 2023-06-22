@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Injamam ul Ashraf</h1>
 <h3 align="center">A passionate SQA engineer from Bangladesh</h3>
 
-(https://media.licdn.com/dms/image/D4D16AQEAzN5FE7TR5w/profile-displaybackgroundimage-shrink_350_1400/0/1687150080340?e=1692835200&v=beta&t=WcBCcrCGFogNFyYqSMy8ZNAp_3jCr1AwU3RDsRFQxuE)
+<img src="https://media.licdn.com/dms/image/D4D16AQEAzN5FE7TR5w/profile-displaybackgroundimage-shrink_350_1400/0/1687150080340?e=1692835200&v=beta&t=WcBCcrCGFogNFyYqSMy8ZNAp_3jCr1AwU3RDsRFQxuE" alt="sqa" width="500" height="600">
 
 - 🔭 I’m currently working on **Web automation with selenium & java**
 
