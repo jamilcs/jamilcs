@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Injamam ul Ashraf</h1>
 <h3 align="center">A passionate SQA engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamilcs&label=Profile%20views&color=0e75b6&style=flat" alt="jamilcs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilcs" alt="jamilcs" /></a> </p>
-
 - 🔭 I’m currently working on **Web automation with selenium & java**
 
 - 🌱 I’m currently learning **Python & Cucumber**
@@ -31,5 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamilcs&show_icons=true&locale=en" alt="jamilcs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamilcs&" alt="jamilcs" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamilcs&label=Profile%20views&color=0e75b6&style=flat" alt="jamilcs" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamilcs" alt="jamilcs" /></a> </p>
 
